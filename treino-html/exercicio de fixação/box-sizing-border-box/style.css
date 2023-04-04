@@ -1,0 +1,13 @@
+div {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid greenyellow; 
+}
+.com-boder-box {
+    background-color: aquamarine;
+    box-sizing: border-box;
+}
+.sem-boder-box {
+    background-color: brown;
+}

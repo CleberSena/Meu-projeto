@@ -1,0 +1,15 @@
+p {
+    margin: 15px;
+    padding: 20px 15px;
+    background-color: aquamarine;
+     color: blue;
+     border: 15px solid #0000ff60;
+
+}
+h1 {
+    background-color: blueviolet;
+    color: #ff000089;
+    border-style: solid;
+    border-width: 10px;
+    border-color: aqua red chartreuse coral;
+}
